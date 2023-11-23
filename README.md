@@ -1,6 +1,18 @@
 # Projeto IoT com ESP32, Alexa e SinricPro
 
-Este projeto permite controlar uma lâmpada remotamente usando uma placa ESP32, conectada à Alexa por meio da plataforma SinricPro. Abaixo está um guia detalhado sobre o código e como configurar o ambiente para executar este projeto.
+Este projeto permite controlar uma lâmpada remotamente usando uma placa ESP32, conectada à Alexa por meio da plataforma SinricPro juntamente com a leitura em tempo real da temperatura e umidade através do sensor DHT11. Além disso, uma interface web dinâmica é incorporada para visualizar as leituras e permitir controle manual.
+
+## Funcionalidades Principais
+
+- Controle remoto da lâmpada via Alexa usando SinricPro.
+- Monitoramento em tempo real da temperatura e umidade com o sensor DHT11.
+- Interface web dinâmica para visualização das leituras e controle manual.
+
+## Componentes Utilizados
+
+- ESP32 para conexão com a Alexa e controle da lâmpada.
+- Sensor DHT11 para medição de temperatura e umidade.
+- Página web dinâmica para exibir os dados e permitir interações manuais.
 
 ## Requisitos
 
