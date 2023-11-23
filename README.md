@@ -58,6 +58,14 @@ Este projeto permite controlar uma lâmpada remotamente usando uma placa ESP32, 
 
 Ao seguir essas etapas, seu dispositivo ESP32 deverá estar pronto para ser controlado remotamente pela Alexa usando a plataforma SinricPro.
 
+## Membros do Grupo
+
+Projeto feito na matéria Projeto Integrador extensionista de IoT do curso de Sistemas de Informação da UniMater.
+
+- [Mateus Stangherlin (LinkedIn)](https://www.linkedin.com/in/mateus-stangherlin-47a1b1230/)
+- [Luiz Felipe Carli (GitHub)](https://github.com/felipeluizcarli)
+- [André Vinicius (GitHub)](https://github.com/andrevinicus/Projeto-IoT-DHT11)
+
 ## Evidência do funcionamento
 
 https://github.com/Mateus402/sistem-off-projetoiot/assets/112894988/1993db64-12d2-4474-bcb9-fb845c51c383
